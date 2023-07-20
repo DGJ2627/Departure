@@ -1,16 +1,19 @@
 # bhavishya_puran_departure
 
-A new Flutter project.
+![1](https://github.com/DGJ2627/Departure/assets/114165275/6ca67af1-412a-4f69-a647-c01846a3ef95)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![4](https://github.com/DGJ2627/Departure/assets/114165275/88c2a932-53e2-4058-93c7-12efe8410398)
+
+
+
+
+
+
+
+
+![5](https://github.com/DGJ2627/Departure/assets/114165275/7a4b0cb7-0880-4393-8d83-32dc81a449dc)
